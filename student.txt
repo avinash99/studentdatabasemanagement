@@ -1,0 +1,8 @@
+111408020  avinash  jadhav  coep  javinash@gmail.com  18  987654328  12-18-1990
+11110000  ishant  pakmode  coep  ae@gmail.com  12  76543567  10-10-2010
+111408030  abhisheck  rao  coep  abhi@gmail.com  34  98765678  12-89-1989
+111408022  yash  lad  pune  a@gmail.com  23  8765467898  30-07-1990
+111408010  shambhoo  kariya  coep  k@gmail.com  67  345676543  15-08-1940
+111408018  ram  kadam  latur  ram@gmail.com  45  654323456  18-08-1990
+111408050  krishna  jadhav  coephostel,pune  krishna@gmail.com  20  45367892  23-09-1996
+111408052  avinash  jadhav  coephostel  javinash@gmail.com  18  983456543456  25-12-1996
