@@ -37,7 +37,7 @@ int a,count1;
 float sgpa[1000];
 int count = 0;
 void add() {	
-	printf("please enter your mis no:");
+	printf("MIS enter:");
 	scanf(" %ld", &input.mis);
 	printf("please enter the full name\n");
 	printf("first Name: ");
@@ -60,7 +60,7 @@ void add() {
 void addmarks(){
 	int i;
 	printf("\t\t you are in first year\n");
-	printf("\t\t enter your mis no.");
+	printf("\t\t MIS enter");
 	scanf("%ld", &input1.mis);
 	printf("please enter the marks of Sub1 out of 100:");
 	scanf("%d", &input1.sub1);
